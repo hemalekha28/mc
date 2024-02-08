@@ -1,0 +1,2 @@
+<<<<<<< HEAD
+city:Banglore
